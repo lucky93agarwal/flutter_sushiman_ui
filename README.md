@@ -1,6 +1,6 @@
 # Flutter Sushiman UI Demo
 
-https://github.com/copmorty/flutter_sushiman_ui/assets/23016725/07d302bf-24b0-4a7e-a803-af8c521030a7
+https://github.com/lucky93agarwal/flutter_sushiman_ui/assets/53622073/12fb2697-db1b-4ab5-aeed-376e681abbe8
 
 ## Description
 
